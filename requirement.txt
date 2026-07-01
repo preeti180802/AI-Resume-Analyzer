@@ -1,0 +1,5 @@
+flask
+PyPDF2
+pdfplumber
+nltk
+scikit-learn
